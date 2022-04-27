@@ -1,0 +1,60 @@
+.logo {
+	display: inline-block;
+	margin-right: 25px;
+}
+
+.navigation {
+	display: inline-block;
+}
+.nav-li {
+	display: inline-block;
+}
+
+.header-wraper {
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	padding: 20px;
+	background: black;
+}
+
+.section-div {
+	width: 1160px;
+	margin: 0 auto;
+	margin-top: 68px;
+}
+.child-div {
+	display: inline-block;
+	width: 360px;
+	position: relative;
+}
+.size {
+	margin-right: 40px;
+}
+.title {
+	position: absolute;
+	left: 40px;
+	top: 28px;
+}
+.second-section {
+	margin: 0 auto;
+	width: 1160px;
+}
+.left-block {
+	display: inline-block;
+	width: 760px;
+	vertical-align: top;
+	margin-right: 40px;
+}
+.right-block {
+	display: inline-block;
+	vertical-align: middle;
+	width: 360px;
+}
+.photo {
+	padding-bottom: 45px;
+}
+
+.new {
+	m
